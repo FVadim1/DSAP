@@ -1,2 +1,2 @@
 # DSAP
-Asignatra DSAP de las optativas de computadores
+Asignatura DSAP de las optativas de computadores
