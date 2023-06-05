@@ -1,2 +1,1 @@
-# DSAP
 ![Screenshot](/mpi.jpg)
