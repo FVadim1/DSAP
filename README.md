@@ -1,2 +1,2 @@
 # DSAP
-Asignatura DSAP de las optativas de computadores
+![Screenshot](/mpi.jpg)
